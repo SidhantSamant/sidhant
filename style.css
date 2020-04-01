@@ -504,6 +504,13 @@ position: fixed;
   outline: none;
   text-decoration: none;
 }
+.buttons{
+    margin: 50px;
+    padding: inherit;
+    align-content: center;
+    width: auto;
+    height: auto;
+}
 .buttons button{
     display: block;
     background-color: rgb(7, 165, 139);
