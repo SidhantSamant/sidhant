@@ -505,11 +505,12 @@ position: fixed;
   text-decoration: none;
 }
 .buttons{
-    margin: 50px;
+
     padding: inherit;
     align-content: center;
     width: auto;
     height: auto;
+    padding: 0 35%;
 }
 .buttons button{
     display: block;
@@ -529,4 +530,10 @@ position: fixed;
 .buttons button:hover{
 background-color: rgb(7, 194, 241);
 color: black ;
+}
+@media (max-width:900px){
+    .buttons{
+        padding: 0 25%;
+    }
+   
 }
