@@ -11,16 +11,6 @@
 	font-weight: 500;
 }
 @font-face {
-	font-family: "Source Sans Pro";
-	src: url(../fonts/SourceSansPro-Light.ttf);
-	font-weight: 300;
-}
-@font-face {
-	font-family: "Source Sans Pro";
-	src: url(../fonts/SourceSansPro-Black.ttf);
-	font-weight: 900;
-}
-@font-face {
 	font-family: "Source Code Pro";
 	src: url(../fonts/SourceCodePro-Regular.ttf);
 	font-weight: 400;
