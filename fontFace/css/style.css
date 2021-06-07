@@ -7,22 +7,22 @@
 /* fonts */
 @font-face {
 	font-family: "Montserrat";
-	src: url(fonts/Montserrat-Medium.ttf);
+	src: url(../fonts/Montserrat-Medium.ttf);
 	font-weight: 500;
 }
 @font-face {
-	font-family: "Source Code Pro";
-	src: url(fonts/SourceSansPro-Light.ttf);
+	font-family: "Source Sans Pro";
+	src: url(../fonts/SourceSansPro-Light.ttf);
 	font-weight: 300;
 }
 @font-face {
-	font-family: "Source Code Pro";
-	src: url(fonts/SourceSansPro-Black.ttf);
+	font-family: "Source Sans Pro";
+	src: url(../fonts/SourceSansPro-Black.ttf);
 	font-weight: 900;
 }
 @font-face {
 	font-family: "Source Code Pro";
-	src: url(fonts/SourceCodePro-Regular.ttf);
+	src: url(../fonts/SourceCodePro-Regular.ttf);
 	font-weight: 400;
 }
 
@@ -36,7 +36,7 @@
 	--fs-h1: 3rem;
 	--fs-h2: 2.25rem;
 	--fs-h3: 1.25rem;
-	--fs-body: 1.1rem;
+	--fs-body: 1rem;
 
 	--clr-bg: #fff;
 	--clr-text: #1b1b1b;
